@@ -15,10 +15,14 @@ Example<br>
 Input  "I LIKE MY DOG      "<br>
 Output "I%20LIKE%20MY%20DOG"
 
-##Task 1-5
+## Task 1-5
 
 Implement compress method which count number of repeated chars. 
 If compressed string is not shorter than input than the input should be returned.<br>
 Example:<br>
 input = "aabcccccaaa"; <br>
 String expected="a2b1c5a3";
+
+## Task 1-6
+Given image is represent by matrix NxN with int values(4 bytes)
+Implement algorithm which rotate matrix by 90 degrees
